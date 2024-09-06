@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif; /* Cambia la fuente aquí si lo deseas */
+}
+
+body{
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    font-size: 16px;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 18px;
+}
+p {
+    margin-bottom: 20px;
+}
